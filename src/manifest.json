@@ -1,0 +1,12 @@
+{
+	"manifest_version": 1,
+	"id": "dialog-shortcut-bug",
+	"app_min_version": "1.7",
+	"version": "1.0.0",
+	"name": "dialog and enter bug",
+	"description": "coursor is active in editor when dialog opened via keyboard shortcut",
+	"author": "a",
+	"homepage_url": "",
+	"repository_url": "",
+	"keywords": []
+}
